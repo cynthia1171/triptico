@@ -1,0 +1,31 @@
+#contenedor{
+	width: 606px;
+	height: 500px;
+	text-align: center;
+	border: 1px solid #000;
+}
+
+#titulo{
+	background-color: #F9B808;
+	border: 1px solid #000;
+}
+
+.box{
+	border: 1px solid #000;
+	height: 400px;
+	width: 200px;
+	float: left;
+	background-color: #fff;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+	border: 1px solid #000;
+}
+
+#pie{
+	background-color: #F9B808;
+	border: 1px solid #000;
+	display: block;
+}
